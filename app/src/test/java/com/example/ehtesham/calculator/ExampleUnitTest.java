@@ -1,5 +1,5 @@
 package com.example.ehtesham.calculator;
-
+import java.lang.*
 import org.junit.Test;
 
 import static org.junit.Assert.*;
